@@ -22,7 +22,7 @@ body {
 .image-vector {
   width: 50vw;
   height: 50vh;
-  background: url(/undraw-upload.svg) no-repeat center;
+  background: url('https://img.freepik.com/free-vector/character-illustration-people-with-data-concept-icons_53876-66133.jpg?w=740&t=st=1704778932~exp=1704779532~hmac=82a05982686eec5fdbda07417a4bbaa864d9d48d01d31a407f8a577538536c2d') no-repeat center;
   background-size: contain;
 }
 
